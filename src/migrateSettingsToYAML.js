@@ -28,8 +28,8 @@ const jsYaml = require("js-yaml");
 			//throw err;
 		//}
 		// else it doesn't exist, and has probably already been migrated. Don't do anything
-	}
-}
+	//}
+//}
 
 /*************
  * Export it *
