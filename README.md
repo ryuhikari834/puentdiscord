@@ -1,9 +1,4 @@
 TediCross
-=========
-TediCross is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
-
-There is no public TediCross bot. You need to host it yourself. To host a bot, you need [nodejs](https://nodejs.org). The bot requires NodeJS 14.9 or higher
-
 
 TediCross News Channel
 ----------------------
